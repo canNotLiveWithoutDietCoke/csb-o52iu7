@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,oBACF,CAEA,kBACE,YACF","file":"main.606f5b97.chunk.css","sourcesContent":[".App {\n  margin: 10px 0 0 10px;\n}\n\n.ant-input-number {\n  width: 1030px;\n}\n"]}
